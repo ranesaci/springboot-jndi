@@ -13,7 +13,6 @@ server.xml:
 	      url="jdbc:mysql://localhost:3306/test1" 
 	      username="sachin" 
 	      password="Sachin@123" 
-	      
 	      maxActive="100" 
 	      maxIdle="20" 
 	      minIdle="5" 
